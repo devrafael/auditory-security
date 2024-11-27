@@ -1,0 +1,6 @@
+projectKey=EquipeProject
+serverUrl=http://localhost:9000
+serverVersion=10.7.0.96327
+dashboardUrl=http://localhost:9000/dashboard?id=EquipeProject
+ceTaskId=e0e904bd-5203-4a5d-a07d-90aead20c2ea
+ceTaskUrl=http://localhost:9000/api/ce/task?id=e0e904bd-5203-4a5d-a07d-90aead20c2ea
